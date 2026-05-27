@@ -1,14 +1,14 @@
 {
   "info": {
-    "_postman_id": "d93fc93b-95fd-405b-a0ef-bb68a502c3ba",
-    "name": "ingepruebas",
+    "_postman_id": "fe439aa0-320f-434d-953e-fe3ee4593843",
+    "name": "Pruebas de Humo - API Inicio",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
     "_exporter_id": "52960275",
-    "_collection_link": "https://go.postman.co/collection/52960275-d93fc93b-95fd-405b-a0ef-bb68a502c3ba?source=collection_link"
+    "_collection_link": "https://go.postman.co/collection/52960275-fe439aa0-320f-434d-953e-fe3ee4593843?source=collection_link"
   },
   "item": [
     {
-      "name": "Pruebas de humo",
+      "name": "New Request",
       "request": {
         "method": "GET",
         "header": []
